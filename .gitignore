@@ -1,0 +1,30 @@
+# JVM crash and memory logs
+hs_err_pid*.log
+replay_pid*.log
+backend/hs_err_pid*.log
+backend/startup_err.txt
+backend/backend_log.txt
+frontend/build_log.txt
+frontend/analyze.txt
+frontend/test_output*.txt
+frontend/analysis_output.txt
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.agent/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Build outputs & dependencies
+backend/target/
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
