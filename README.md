@@ -62,6 +62,24 @@ graph TD
 
 ---
 
+## 📱 Application Showcase & Screenshots
+
+<div align="center">
+
+### 1️⃣ Patient Experience
+| Doctor Discovery & Search | Slot Selection & Booking | Razorpay Checkout |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/patient_discovery.png" width="250" alt="Doctor Discovery"/> | <img src="docs/screenshots/patient_booking.png" width="250" alt="Appointment Booking"/> | <img src="docs/screenshots/razorpay_payment.png" width="250" alt="Razorpay Payment"/> |
+
+### 2️⃣ Doctor & Administrator Portals
+| Doctor Analytics Dashboard | Time Slot Management | Admin Doctor Approval |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/doctor_dashboard.png" width="250" alt="Doctor Dashboard"/> | <img src="docs/screenshots/doctor_slots.png" width="250" alt="Slot Management"/> | <img src="docs/screenshots/admin_approval.png" width="250" alt="Admin Doctor Verification"/> |
+
+</div>
+
+---
+
 ## 👤 Role-Based Capabilities
 
 ### 1️⃣ Patient Portal
@@ -152,10 +170,10 @@ flutter run
 
 ## 💼 Developer Information & Contact
 
-**Developed by:** *[Your Full Name]*  
-📧 **Email:** *[your.email@example.com]*  
-🔗 **LinkedIn:** *[https://linkedin.com/in/yourprofile]*  
-🌐 **Portfolio:** *[https://yourportfolio.com]*  
+**Developed by:** *[Ashish Gaikwad]*  
+📧 **Email:** *[ashishgaikwad9561@gmail.com]*  
+🔗 **LinkedIn:** *[https://www.linkedin.com/in/ashish9561/]*  
+🌐 **Portfolio:** *[https://github.com/ashish956175/]*  
 
 ---
 *⭐ If you find this project impressive or helpful, feel free to give it a star! Open to Full-Stack / Mobile / Backend Software Engineering opportunities.*
