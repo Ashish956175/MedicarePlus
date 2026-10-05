@@ -170,10 +170,10 @@ flutter run
 
 ## 💼 Developer Information & Contact
 
-**Developed by:** *[Ashish Gaikwad]*  
-📧 **Email:** *[ashishgaikwad9561@gmail.com]*  
-🔗 **LinkedIn:** *[https://www.linkedin.com/in/ashish9561/]*  
-🌐 **Portfolio:** *[https://github.com/ashish956175/]*  
+**Developed by:** *Ashish Gaikwad*  
+📧 **Email:** *ashishgaikwad9561@gmail.com*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/ashish9561/*  
+🌐 **Portfolio:** *https://github.com/ashish956175/*
 
 ---
 *⭐ If you find this project impressive or helpful, feel free to give it a star! Open to Full-Stack / Mobile / Backend Software Engineering opportunities.*
